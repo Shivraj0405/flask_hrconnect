@@ -1,2 +1,6 @@
 .txt
 .sys
+.cfg
+.info
+.idea
+.__pycache__
